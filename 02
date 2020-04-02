@@ -58,7 +58,7 @@ http://10.16.100.207:8082/sports/duronto_HD.m3u8
 #EXTINF:-1, ZEE Bangla
 http://tv.ebox.live/live/zee-bangla.m3u8
 #EXTINF:-1, Star Jalsha HD
-http://tv.ebox.live/live/star-jalsha.m3u8
+http://ddn.amrbd.com:8081/live/starjalsha/playlist.m3u8
 #EXTINF:-1, ZEE Bangla Cinema
 http://tv.ebox.live/live/zee-cinema-bangla.m3u8
 #EXTINF:-1, Star jalsha Movies
