@@ -151,8 +151,6 @@ https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1, Nat Geo In
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_in/chunks.m3u8
-#EXTINF:-1,Sony Six
-http://103.81.104.222/live/sony-sixx/index.m3u8
 #EXTINF:-1, Sony Ten 1
 http://10.16.100.241/exthls/sonyten1.m3u8
 #EXTINF:-1,Sony TEN 2
