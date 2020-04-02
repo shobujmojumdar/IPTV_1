@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTINF:-1, Jamuna TV
+http://tv.ebox.live/live/ex-jamuna.m3u8
+#EXTINF:-1, Gazi TV
+http://tv.ebox.live/live/gazi-tv.m3u8
+#EXTINF:-1, Bangla Vision
+http://tv.ebox.live/live/banae3.m3u8
+#EXTINF:-1, ATN Bangla		
+http://tv.ebox.live/live/atnbd1.m3u8
+#EXTINF:-1, Channel I
+http://tv.ebox.live/live/chi.m3u8
+#EXTINF:-1, RTV
+http://tv.ebox.live/live/rtv.m3u8
+#EXTINF:-1, Boishakhi 
+http://tv.ebox.live/live/boishakhi.m3u8
+#EXTINF:-1, Ekattor
+http://tv.ebox.live/live/ekattor1.m3u8
+#EXTINF:-1, New24
+http://tv.ebox.live/live/news24.m3u8
+#EXTINF:-1, DBC News
+http://tv.ebox.live/live/dbc.m3u8
+#EXTINF:-1, ATN News
+http://tv.ebox.live/live/ex-atnae.m3u8
+#EXTINF:-1, Gan Bangla
+http://tv.ebox.live/live/gan.m3u8
+#EXTINF:-1, Channel 9
+http://tv.ebox.live/live/channel9.m3u8
+#EXTINF:-1,Bangla TV
+http://10.16.100.203:8082/bangla/banglatv_hd.m3u8
+#EXTINF:-1, Bijoy TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:-1, Channel 24
+http://10.16.100.204:8080/tv204/channel24_720.m3u8
+#EXTINF:-1, Deepto TV
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:-1, Desh TV
+http://10.16.100.203:8082/bangla/desh.m3u8
+#EXTINF:-1, Ekushey TV
+http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+#EXTINF:-1, Independent TV
+http://10.16.100.203:8082/bangla/independent.m3u8
+#EXTINF:-1, Mashranga TV
+http://10.16.100.203:8082/bangla/MAASRANGATV.m3u8
+#EXTINF:-1, Mohona TV
+http://10.16.100.203:8082/bangla/mohonatv.m3u8
+#EXTINF:-1, SA TV
+https://bracnet.iptv.jadoodigital.com/live/sa_tv/chunks.m3u8
+#EXTINF:-1, My TV
+http://10.16.100.203:8082/bangla/mytv.m3u8
+#EXTINF:-1, NTV
+http://10.16.100.203:8082/bangla/ntv.m3u8
+#EXTINF:-1, Nagorik TV
+http://10.16.100.203:8082/bangla/nagorik.m3u8
+#EXTINF:-1, Somoy tv
+http://10.16.100.203:8082/bangla/somoy.m3u8
+#EXTINF:-1, Duronto
+http://10.16.100.207:8082/sports/duronto_HD.m3u8
+#EXTINF:-1, ZEE Bangla
+http://tv.ebox.live/live/zee-bangla.m3u8
+#EXTINF:-1, Star Jalsha HD
+http://tv.ebox.live/live/star-jalsha.m3u8
+#EXTINF:-1, ZEE Bangla Cinema
+http://tv.ebox.live/live/zee-cinema-bangla.m3u8
+#EXTINF:-1, Star jalsha Movies
+http://tv.ebox.live/live/star-jalsha-movies.m3u8
+#EXTINF:-1, Sony AATH
+https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
+#EXTINF:-1, Sangeet Bangla
+https://bracnet.iptv.jadoodigital.com/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1, ZEE TV
+http://tv.ebox.live/live/zee-tv.m3u8
+#EXTINF:-1, Star Plus
+https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
+#EXTINF:-1, Star Bharat
+https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
+#EXTINF:-1, Colors HD
+http://tv.ebox.live/live/colors.m3u8
+#EXTINF:-1, Sony TV HD
+http://10.16.100.204:8080/tv204/sonyentertainmnt_hd720.m3u8
+#EXTINF:-1, Sony SAB HD
+http://tv.ebox.live/live/sony-sab.m3u8
+#EXTINF:-1, Star Gold HD
+https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
+#EXTINF:-1, ZEE Cinema 
+http://tv.ebox.live/live/zee-cinema.m3u8
+#EXTINF:-1, Sony MAX
+https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
+#EXTINF:-1, Sony MAX HD
+https://streamer-1.toffeelive.com/live/set_max_hd_320/index.m3u8
+#EXTINF:-1, Star Gold 2
+https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
+#EXTINF:-1, Monoranjan
+https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
+#EXTINF:-1, B4u Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1,MNX 
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
+#EXTINF:-1, Star Movies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1, Movies Now
+https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
+#EXTINF:-1, Lotus TV Macau
+https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
+#EXTINF:-1, HBO
+http://tv.ebox.live/live/hbo.m3u8
+#EXTINF:-1,Color Infinity HD
+http://tv.ebox.live/live/color-Infinity.m3u8
+#EXTINF:-1, VH1
+https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
+#EXTINF:-1,Star World
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1, FYI TV 18
+https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
+#EXTINF:-1, Sony Pix HD
+http://tv.ebox.live/live/sony-pix.m3u8
+#EXTINF:-1, Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
+#EXTINF:-1, Nick Bangla
+https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
+#EXTINF:-1, Nick Sonic Bangla
+https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
+#EXTINF:-1, Nick JR.
+https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
+#EXTINF:-1, Sony YAN Bangla
+http://10.16.100.207:8082/sports/SONYYAY.m3u8
+#EXTINF:-1, Disney XD
+http://10.16.100.202:8080/tvs202/disneyxd.m3u8
+#EXTINF:-1, 9XM Music
+http://10.16.100.204:8080/tv204/9xm_music_720.m3u8
+#EXTINF:-1, E24
+http://10.16.100.207:8082/sports/eTwentyfour.m3u8
+#EXTINF:-1,  Music India
+http://10.16.100.207:8082/sports/musicindia.m3u8
+#EXTINF:-1, ZOOM
+https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
+#EXTINF:-1, ZEE ETC 
+http://10.16.100.201:8082/hindi/ZeeETC.m3u8
+#EXTINF:-1, VH1
+https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
+#EXTINF:-1,Discovery HD
+http://10.16.100.241/exthls/discoveryhd_720.m3u8
+#EXTINF:-1,Discovery Science
+http://10.16.100.241/exthls/dissci_720.m3u8
+#EXTINF:-1, Sony BBC Earth HD
+http://10.16.100.241/exthls/sonybbcearth_hd.m3u8
+#EXTINF:-1, Animal Planet HD
+http://10.16.100.207:8082/sports/animalplanethd_720.m3u8
+#EXTINF:-1,FOX Life
+https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
+#EXTINF:-1, Nat Geo People
+https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
+#EXTINF:-1, Nat Geo In
+https://bracnet.iptv.jadoodigital.com/live/nat_geo_in/chunks.m3u8
+
